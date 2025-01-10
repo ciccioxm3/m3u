@@ -4,8 +4,11 @@
 #EXTM3U Disclaimer: Links were collected by the bot on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
 
 
-#EXTINF:-1 tvg-id="FashionTV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
+#EXTINF:-1 tvg-id="DE:.Fashion.TV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
 https://a1xs.vip/ftv4kuhd
+#EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-name="Bloomberg TV UHD" tvg-logo="https://i.ibb.co/L61zPzP/Bloomberg-tv.png" group-title="UHD | 4K",Bloomberg TV UHD
+https://a1xs.vip/blombuhd
+
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
