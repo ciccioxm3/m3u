@@ -1,7 +1,11 @@
 #EXTM3U x-tvg-url="https://a1xs.vip/a1x-epg" tvg-shift=0
 #EXTM3U Add this link to any i.p.t.v players like TiviMate, iMPlayer, Televizio, UHF...
 #EXTM3U Join our discord server: https://a1xs.vip/discord
-#EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
-#EXTINF:-1 tvg-id="intro" tvg-logo="https://i.ibb.co/MZvfcB4/a1x.pn= group-title="Sports",🌍 Intro 🌍
+#EXTM3U Disclaimer: Links were collected by the bot on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
 
-Updating....
+
+#EXTINF:-1 tvg-id="FashionTV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
+https://a1xs.vip/ftv4kuhd
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
+https://7pal.short.gy/SSMEuhd
