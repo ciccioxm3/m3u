@@ -114,7 +114,10 @@ https://a1xs.vip/6000003
 https://a1xs.vip/6000004
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
 https://a1xs.vip/6000005
-
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet Ontario FHD" tvg-logo="https://i.postimg.cc/DZKqnTRV/Sportsnet-Ontario.png" group-title="CA Sports",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://i.postimg.cc/6q86P7zB/Sportsnet-One.png" group-title="CA Sports",Sportsnet One FHD
+https://a1xs.vip/6000012
 
 --- 📺 World Sports
 #EXTINF:-1 tvg-id="EPL.za" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="World Sports",SuperSport Premier League
