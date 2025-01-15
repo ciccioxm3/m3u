@@ -86,6 +86,13 @@ https://a1xs.vip/2000041
 
 
 --- 📺 US Sports
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="US Sports",MSG FHD
+https://a1xs.vip/4000001
+#EXTINF:-1 tvg-id="MSG.Plus.us" tvg-name="MSG_PLUS" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="US Sports",MSG_PLUS FHD
+https://a1xs.vip/4000002
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="MSG_PLUS" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN FHD
+https://a1xs.vip/4000004
+
 
 --- 📺 CA Channels
 
