@@ -90,8 +90,14 @@ https://a1xs.vip/2000041
 https://a1xs.vip/4000001
 #EXTINF:-1 tvg-id="MSG.Plus.us" tvg-name="MSG_PLUS" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="US Sports",MSG_PLUS FHD
 https://a1xs.vip/4000002
-#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="MSG_PLUS" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN FHD
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name=",NESN FHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN FHD
 https://a1xs.vip/4000004
+
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
+https://a1xs.vip/000006
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/q7W1KSYQ/cbs-sports.png" group-title="US Sports",CBS Sports Network FHD
+https://a1xs.vip/000007
+
 
 
 --- 📺 CA Channels
