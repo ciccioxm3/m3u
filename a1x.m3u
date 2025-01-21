@@ -16,6 +16,10 @@ https://a1xs.vip/9000001
 https://a1xs.vip/9000011
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://pixvid.org/images/2025/01/21/Hub-Premier-2-UHD.png" group-title="UHD | 4K",SG: Hub Premier 2 UHD
 https://a1xs.vip/9000012
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://pixvid.org/images/2025/01/21/Hub-Premier-2-UHD.png" group-title="UHD | 4K",SG: Hub Premier 2 UHD
+https://a1xs.vip/9000012
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name=",US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="UHD | 4K",US: NESN UHD
+https://a1xs.vip/4000080
 
 #EXTINF:-1 tvg-id="DE:.Fashion.TV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
 https://a1xs.vip/ftv4kuhd
@@ -114,6 +118,8 @@ https://a1xs.vip/2000041
 
 
 --- 📺 US Sports
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name=",US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN UHD
+https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="US Sports",MSG FHD
 https://a1xs.vip/4000001
 #EXTINF:-1 tvg-id="MSG.Plus.us" tvg-name="MSG_PLUS" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="US Sports",MSG_PLUS FHD
