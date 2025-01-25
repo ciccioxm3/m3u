@@ -141,11 +141,27 @@ https://a1xs.vip/4000002
 https://a1xs.vip/4000004
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
-https://a1xs.vip/000006
+https://a1xs.vip/4000006
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/q7W1KSYQ/cbs-sports.png" group-title="US Sports",CBS Sports Network FHD
-https://a1xs.vip/000007
+https://a1xs.vip/4000007
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="US Sports",ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="US Sports",ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPNU HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="US Sports",ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN News HD" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="US Sports",ESPN News HD
+https://a1xs.vip/40000014
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC ESPN Network HD" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="US Sports",SEC Network HD
+https://a1xs.vip/40000015
+#EXTINF:-1 tvg-id="ACC.Network.us" tvg-name="ACC Network HD" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="US Sports",ACC Network HD
+https://a1xs.vip/40000016
 
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="FS1 HD" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="US Sports",FS1 HD
+https://a1xs.vip/40000021
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="US Sports",FS2 HD
+https://a1xs.vip/40000022
 
 --- 📺 CA Channels
 
