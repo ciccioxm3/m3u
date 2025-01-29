@@ -55,6 +55,15 @@ https://a1xs.vip/1100021
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="EPL",USA Network FHD
 https://a1xs.vip/1100020
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="EPL",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="EPL",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="EPL",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="EPL",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+
 --- 📺 UK Channels
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
 https://a1xs.vip/1000001
