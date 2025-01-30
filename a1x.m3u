@@ -185,17 +185,6 @@ https://a1xs.vip/40000033
 https://a1xs.vip/40000034
 --- 📺 CA Channels
 
-
---- 📺 AU Sports
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://pixvid.org/images/2025/01/27/Fox_League502.png" group-title="AU Sports",Fox Sports 502 FHD
-https://a1xs.vip/700002
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://pixvid.org/images/2025/01/27/Fox_503.png" group-title="AU Sports",Fox Sports 503 FHD
-https://a1xs.vip/700003
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://pixvid.org/images/2025/01/27/FOX_Footy504.png" group-title="AU Sports",Fox Sports 504 FHD
-https://a1xs.vip/700004
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Fox_505.png" group-title="AU Sports",Fox Sports 505 FHD
-https://a1xs.vip/700005
-
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="CA Sports",TSN1
 https://a1xs.vip/6000001
@@ -211,6 +200,20 @@ https://a1xs.vip/6000005
 https://a1xs.vip/6000011
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://i.postimg.cc/6q86P7zB/Sportsnet-One.png" group-title="CA Sports",Sportsnet One FHD
 https://a1xs.vip/6000012
+
+--- 📺 AU Sports
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://pixvid.org/images/2025/01/27/Fox_League502.png" group-title="AU Sports",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://pixvid.org/images/2025/01/27/Fox_503.png" group-title="AU Sports",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://pixvid.org/images/2025/01/27/FOX_Footy504.png" group-title="AU Sports",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Fox_505.png" group-title="AU Sports",Fox Sports 505 FHD
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Fox_506.png" group-title="AU Sports",Fox Sports 506 FHD
+https://a1xs.vip/700006
+
+
 
 --- 📺 World Sports
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_1.png" group-title="World Sports",Premier Sports 1 FHD
