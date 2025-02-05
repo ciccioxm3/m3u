@@ -130,11 +130,12 @@ https://a1xs.vip/1000012
 https://a1xs.vip/1000013
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="iTV4 FHD" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="UK Channels",iTV4 FHD
 https://a1xs.vip/1000014
-#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="UK Channels",Channel 5 FHD
-https://a1xs.vip/1000030
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 FHD" tvg-logo="https://i.ibb.co/v3WBCFV/Channel-4.png" group-title="UK Channels",Channel 4 FHD
 https://a1xs.vip/1000031
-
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="UK Channels",Channel 5 FHD
+https://a1xs.vip/1000030
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 FHD" tvg-logo="https://pixvid.org/images/2025/02/05/e4.png" group-title="UK Channels",E4 FHD
+https://a1xs.vip/1000032
 
 --- 📺 US Sports
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN UHD
@@ -145,7 +146,8 @@ https://a1xs.vip/4000001
 https://a1xs.vip/4000002
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN FHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN FHD
 https://a1xs.vip/4000004
-
+#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="SportsNet NY FHD" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="US Sports",SportsNet NY FHD
+https://a1xs.vip/40000045
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
 https://a1xs.vip/4000006
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="US Sports",CBS Sports HQ FHD
@@ -176,7 +178,7 @@ https://a1xs.vip/40000032
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="https://pixvid.org/images/2025/01/25/nhl-nw.png" group-title="US Sports",NHL Network
 https://a1xs.vip/40000034
-#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="NHL Network" tvg-logo="https://pixvid.org/images/2025/02/05/fanduel_tv.png" group-title="US Sports",FanDuel TV
+#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" tvg-logo="https://pixvid.org/images/2025/02/05/fanduel_tv.png" group-title="US Sports",FanDuel TV
 https://a1xs.vip/40000046
 #EXTINF:-1 tvg-id="plex.tv.Willow.Sports.plex" tvg-name="Willow Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/04/Willowsport1.png" group-title="US Sports",Willow Sports FHD
 https://a1xs.vip/40000044
@@ -189,15 +191,13 @@ https://a1xs.vip/40000043
 https://a1xs.vip/40000040
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel Plus FHD
 https://a1xs.vip/40000041
-#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="NHL Network" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="US Sports",SportsNet NY FHD
-https://a1xs.vip/40000045
 
 --- 📺 US Channels
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
 https://a1xs.vip/300003
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/tnt.png" group-title="US Channels",TNT FHD
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT FHD" tvg-logo="https://pixvid.org/images/2025/02/05/tnt.png" group-title="US Channels",TNT FHD
 https://a1xs.vip/300001
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="US Channels",truTV FHD
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="US Channels",truTV FHD
 https://a1xs.vip/300002
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="US Channels",USA Network FHD
