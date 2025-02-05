@@ -188,7 +188,8 @@ https://a1xs.vip/40000043
 https://a1xs.vip/40000040
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel Plus FHD
 https://a1xs.vip/40000041
-
+#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="NHL Network" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="US Sports",SportsNet NY FHD
+https://a1xs.vip/40000045
 
 --- 📺 US Channels
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="US Channels",USA Network FHD
@@ -199,6 +200,10 @@ https://a1xs.vip/300001
 https://a1xs.vip/300002
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
 https://a1xs.vip/300003
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
+https://a1xs.vip/300003
+
+
 
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="CA Sports",TSN1
