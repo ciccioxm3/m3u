@@ -191,13 +191,13 @@ https://a1xs.vip/40000041
 
 
 --- 📺 US Channels
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="EPL",USA Network FHD
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="US Channels",USA Network FHD
 https://a1xs.vip/1100020
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/tnt.png" group-title="EPL",TNT FHD
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/tnt.png" group-title="US Channels",TNT FHD
 https://a1xs.vip/300001
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="EPL",truTV FHD
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="US Channels",truTV FHD
 https://a1xs.vip/300002
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="EPL",ABC
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
 https://a1xs.vip/300003
 
 --- 📺 CA Sports
