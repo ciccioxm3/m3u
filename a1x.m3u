@@ -150,8 +150,12 @@ https://a1xs.vip/4000004
 https://a1xs.vip/40000045
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
 https://a1xs.vip/4000006
-#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="US Sports",CBS Sports HQ FHD
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="US Sports",CBS Sports HQ FHD
 https://a1xs.vip/4000007
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="US Sports",CBS Sports Network
+https://a1xs.vip/4000008
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="US Sports",CBS Sports Golazo Network
+https://a1xs.vip/4000009
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="US Sports",ESPN HD
 https://a1xs.vip/40000011
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="US Sports",ESPN2 HD
