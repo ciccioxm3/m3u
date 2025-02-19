@@ -371,8 +371,12 @@ https://a1xs.vip/8000012
 https://a1xs.vip/ppv1
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 2
 https://a1xs.vip/ppv2
+
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
 https://a1xs.vip/ppv3
+
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 4
 https://a1xs.vip/ppv4
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 5
