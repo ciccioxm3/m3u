@@ -3,6 +3,18 @@
 #EXTM3U Join our discord server: https://a1xs.vip/discord
 #EXTM3U Disclaimer: Links were collected by the bot on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
 
+--- 📺 Live Events
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 1: Beterbiev - Bivol 2 [TNT] (02.22)
+https://a1xs.vip/ppv1
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 2: Beterbiev - Bivol 2 [SBO] (02.22)
+https://a1xs.vip/ppv2
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 3: Beterbiev - Bivol 2 [DAZN] (02.22)
+https://a1xs.vip/ppv3
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 4: Beterbiev - Bivol 2 [TBA] (02.22)
+https://a1xs.vip/ppv4
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 5
+https://a1xs.vip/ppv5
+
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
@@ -371,16 +383,6 @@ https://a1xs.vip/8000011
 https://a1xs.vip/8000012
 
 
---- 📺 Live Events
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 1
-https://a1xs.vip/ppv1
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 2
-https://a1xs.vip/ppv2
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 3
-https://a1xs.vip/ppv3
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Live Event | PPV",Live Event 5
-https://a1xs.vip/ppv5
+
 
 
