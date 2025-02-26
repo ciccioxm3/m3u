@@ -356,11 +356,18 @@ https://a1xs.vip/700037
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="NZ Sports",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
 
---- 📺 World Sports
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_1.png" group-title="World Sports",Premier Sports 1 FHD
+
+--- 📺 EU Sports
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_1.png" group-title="EU Sports",IRE: Premier Sports 1 FHD
 https://a1xs.vip/8000021
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 21 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_2.png" group-title="World Sports",Premier Sports 2 FHD
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 21 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_2.png" group-title="EU Sports",IRE: Premier Sports 2 FHD
 https://a1xs.vip/8000022
+
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Premier Sports 21 FHD" tvg-logo="https://pixvid.org/images/2025/02/26/sportdigital-fussball.png" group-title="EU Sports",DE: Sportdigital Fussball FHD
+https://a1xs.vip/120001
+
+
+--- 📺 World Sports
 #EXTINF:-1 tvg-id="EPL.za" tvg-name="SuperSport PL FHD" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="World Sports",SuperSport PL FHD
 https://a1xs.vip/8000001
 #EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="SuperSport Football FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SSFB.png" group-title="World Sports",SuperSport Football FHD
